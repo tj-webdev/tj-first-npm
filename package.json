@@ -1,0 +1,22 @@
+{
+  "name": "tj-first-npm",
+  "version": "1.0.0",
+  "description": "my first npm package",
+  "main": "index.js",
+  "scripts": {
+    "test": "tjwebdev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tj-webdev/tj-first-npm.git"
+  },
+  "keywords": [
+    "tjwebdev"
+  ],
+  "author": "tjwebdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tj-webdev/tj-first-npm/issues"
+  },
+  "homepage": "https://github.com/tj-webdev/tj-first-npm#readme"
+}
