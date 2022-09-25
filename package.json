@@ -1,6 +1,6 @@
 {
   "name": "tj-first-npm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my first npm package",
   "main": "index.js",
   "scripts": {
@@ -18,5 +18,6 @@
   "bugs": {
     "url": "https://github.com/tj-webdev/tj-first-npm/issues"
   },
-  "homepage": "https://github.com/tj-webdev/tj-first-npm#readme"
+  "homepage": "https://github.com/tj-webdev/tj-first-npm#readme",
+  "readme": "README.md"
 }
